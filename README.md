@@ -7,9 +7,9 @@
 <img width="700px" height = "350px" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" alt="cover" />
 </div>
 
-
-contactame al correo Eze-leiva@hotmail.com
-
+<b>
+  <h2 align="center">Contactame al correo Eze-leiva@hotmail.com</h2>
+</b>
 
 
 </br>
